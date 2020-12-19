@@ -14,4 +14,10 @@ echo 'Mi cadena: '.$texto;
 
 echo '<br><br>';
 
+//Variable tipo boolean
+$boolean = true;//En php true=1 y false=0 aunque nos lo mostrara vacio.
+
+echo 'Esto es una variable boolean: '.$boolean;
+
+echo '<br><br>';
 ?>
