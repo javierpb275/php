@@ -2,6 +2,6 @@
 
 $numero = 10;
 
-echo $numero;
+echo "Esto es un numero: $numero";
 
 ?>
