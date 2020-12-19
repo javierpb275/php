@@ -35,4 +35,9 @@ echo $colors["color2"];
 
 echo '<br><br>';
 
+//Variable de tipo objeto:
+$objeto = (object)["mueble1" => "armario", "mueble2" => "escritorio"];
+
+echo $objeto->mueble2;
+
 ?>
