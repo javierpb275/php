@@ -28,4 +28,11 @@ echo $array[1];
 
 echo '<br><br>';
 
+//Variables de tipo array con propiedades:
+$colors = array("color1"=>"red", "color2"=>"blue");
+
+echo $colors["color2"];
+
+echo '<br><br>';
+
 ?>
