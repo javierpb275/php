@@ -8,4 +8,14 @@ function bienvenida() {
 
 bienvenida();
 
+echo '<br><br>';
+
+//Funciones con parametros:
+function saludar($hola) {
+
+	echo $hola;
+}
+
+saludar("Hello everyone");
+
 ?>
